@@ -1,2 +1,2 @@
 # classex
-hello world!
+hello world! fixed the error!
