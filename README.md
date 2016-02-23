@@ -1,2 +1,2 @@
 # classex
-hello world!
+hello world! this is an error.
